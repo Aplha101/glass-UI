@@ -29,7 +29,6 @@ body {
 }
 .input{
   text-align: center;
-  letter-spacing:5px;
   border-radius:10px;
   background:transparent;
   outline:none;
@@ -74,7 +73,7 @@ label{
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
-p , h4{
+p , input ,  h4{
   color:white;
   font-size:20px;
    font-family: "Lucida Console", "Courier New", monospace;
