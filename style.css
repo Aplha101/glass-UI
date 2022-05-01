@@ -2,6 +2,8 @@ body {
   font-size: 15pt;
 
   background-image: linear-gradient(to right top, #6998ab, #618fa3, #59869b, #517d94, #4a748c, #436c84, #3d637c, #365b74, #2f526a, #284960, #214057, #1a374d);
+  
+  background-image: -webkit-linear-gradient(to right top, #6998ab, #618fa3, #59869b, #517d94, #4a748c, #436c84, #3d637c, #365b74, #2f526a, #284960, #214057, #1a374d);
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 100%;
